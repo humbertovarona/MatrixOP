@@ -1,6 +1,6 @@
 # MatrixOP 
 
-Time series forecasting
+Operations with matrices 
 
 # Version
 
